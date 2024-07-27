@@ -1,0 +1,1 @@
+obj-$(CONFIG_GEC6818_HUMITY_DRIVER) += gec6818_humity.o

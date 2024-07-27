@@ -1,0 +1,1 @@
+obj-$(CONFIG_GEC6818_BEEP_DRIVER) += gec6818-beep.o

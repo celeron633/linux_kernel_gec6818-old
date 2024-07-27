@@ -1,0 +1,6 @@
+config X6818_LED_DRIVER
+	bool "X6818 led driver"
+	default n
+	help
+	compile for leddriver,y for kernel,m for module.
+

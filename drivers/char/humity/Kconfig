@@ -1,0 +1,6 @@
+config X6818_HUMITY_DRIVER
+	bool "X6818 humity driver"
+	default n
+	help
+	compile for leddriver,y for kernel,m for module.
+
